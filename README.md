@@ -1,2 +1,2 @@
 # PROJECT
-course on react
+Course on react
